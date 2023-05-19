@@ -2,7 +2,7 @@
 
 Hello, I go on the internet by Reality Gamer (tbh kind of over this name might modify it soon) or Realboy. 
 This is the home page for my various projects. I am working on a writing-machine which consists of several co-enveloping assemblages.
-
+🤯
 Generally speaking I am interested in sociocul🌺tural structures and technology. I hope for my writing to establish new lines to traverse upon which we may discover new evolutionary trajectories for these systems.
 
 [Follow me on Twitter here.](https://twitter.com/reality__gamer) 
