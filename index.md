@@ -7,11 +7,11 @@ Generally speaking I am interested in sociocultural structures and technology.
 
 ### AI Harmony (for Harmless AI)
 
-1. Gay Liberal Hitler
-2. Is GPT-3 a Wordcel?
-3. Anti-Yudkowsky (book)
+1. [The Dangers of a Safe Large Language Model](https://harmlessai.substack.com/p/the-dangers-of-a-safe-large-language)
+2. [Is GPT-3 a Wordcel?](https://harmlessai.substack.com/p/is-gpt-3-a-wordcel-and-silicon-valleys)
+3. 📚 Anti-Yudkowsky 
 4. AGI Drugs You Should Try It
-5. On Nick Land's Numogram & the Cosmic Game
+5. On Land's Numogram & the Cosmic Game
 
 ### Corporate Surrealism (in association with Harmless AI and WagonDAO)
 
