@@ -13,7 +13,9 @@
     "build": "gatsby build",
     "serve": "gatsby serve",
     "clean": "gatsby clean",
-    "typecheck": "tsc --noEmit"
+    "typecheck": "tsc --noEmit",
+    "deploy": "gatsby build --prefix-paths && gh-pages -d public -r https://$ACCESS_TOKEN@github.com/maxwellfoley3/realboy.git"
+
   },
   "dependencies": {
     "@mdx-js/react": "^2.3.0",
