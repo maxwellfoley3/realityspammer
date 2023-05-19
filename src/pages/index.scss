@@ -1,0 +1,18 @@
+body {
+	background-color: #ffd2cf;
+	font-family: monospace;
+}
+
+li {
+	list-style-type: none;
+	margin-left: 10px;
+}
+
+.container {
+	max-width: 600px;
+	@media (min-width: 600px) {
+		margin-left: 100px;
+		margin-top: 30px;
+	}
+	margin-bottom: 200px;
+}

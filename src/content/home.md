@@ -1,3 +1,9 @@
+---
+title: Realworld 🤯
+slug: "/"
+---
+
+
 # Realworld 🤯
 
 Hello, I go on the internet by Reality Gamer (tbh kind of over this name might modify it soon) or Realboy. 
@@ -37,8 +43,4 @@ Generally speaking I am interested in sociocultural structures and technology. I
 
 ### Universalist Christianity (for WagonDAO)
 
-1. Towards Universalist Christianity
-
-
-
-
+1. Towards a Universalist Christianity
