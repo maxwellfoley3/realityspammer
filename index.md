@@ -3,7 +3,9 @@
 Hello, I go on the internet by Reality Gamer (kind of over this name might modify it soon) or Realboy. 
 This is the home page for my various projects. I am working on a writing-machine which consists of several co-enveloping assemblages.
 
-Generally speaking I am interested in sociocultural structures and technology.   
+Generally speaking I am interested in sociocultural structures and technology. I hope for my writing to establish new lines to traverse upon which we may discover new potentials for these systems.
+
+[Follow me on Twitter here.](https://twitter.com/reality__gamer)
 
 ### AI Harmony (for Harmless AI)
 
@@ -22,16 +24,16 @@ Generally speaking I am interested in sociocultural structures and technology.
 5. Towards a Corporate Surrealist Ontology, through Bataille
 6. Towards a Corporate Surrealist Ontology, through Hjemslev
 
+### Web4
+
+1. Rooms
+2. Towards an Ontology of Social Media 
+
 ### Guattari Gang
 
 💫 Guattari Glossary
 1. Guattari Gang
 2. Reflections on Anti-Oedipus
-
-### Web4
-
-1. Rooms
-2. Towards an Ontology of Social Media 
 
 ### Universalist Christianity (for WagonDAO)
 
