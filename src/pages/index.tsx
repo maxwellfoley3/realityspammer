@@ -30,7 +30,7 @@ const IndexPage: React.FC<PageProps> = () => {
     <h3>Guattari Gang</h3>
     <li>🌏 Guattari Glossary</li>
     <li>1. Guattari Gang</li>
-    <li>2. Reflections on Anti-Oedipus</li>
+    <li>2. <a href="/anti-oedipus">Reflections on Anti-Oedipus</a></li>
 
     <h3>Universalist Christianity <span style={{fontSize:'12px'}}>(for WagonDAO)</span></h3>
     <li>1. <a href="/universalist-christianity">Towards Universalist Christianity</a></li>
