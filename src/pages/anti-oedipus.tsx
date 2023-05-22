@@ -169,7 +169,7 @@ const UniversalChristianityPage: React.FC<PageProps> = () => {
   )
 }
 
-export const Head: HeadFC = () => <title>Universalist Christianity</title>
+export const Head: HeadFC = () => <title>Reflections on Anti-Oedipus</title>
 
 export default UniversalChristianityPage
 
