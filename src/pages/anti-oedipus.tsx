@@ -52,7 +52,7 @@ const UniversalChristianityPage: React.FC<PageProps> = () => {
 		<p>
 		I’m not going to go into every concept right now but I’ll make some short notes on the basic ones from Anti-Oedipus
 		</p>
-		<p><b>Code & flow</b></p>
+		<h4><b>Code & flow</b></h4>
 		<p>
 		The most fundamental perspective shift we have to undertake when we read Guattari is this: <i>there is a conversion between code and flow; code can be converted to flow and flow can be converted to code.
 		</i>
@@ -85,7 +85,7 @@ const UniversalChristianityPage: React.FC<PageProps> = () => {
 		<p>
 		This doesn’t mean that the universe is emptied of presence, it means even moreso that the universe is a cosmic poem — everything which is not in motion can be interpreted as code, nothing is more linguistic than anything else. Guattari, like a schizophrenic, is overwhelmed by signs from God.
 		</p>
-		<p><b>Desiring-machines</b></p>
+		<h4><b>Desiring-machines</b></h4>
 		<p>
 		This is the first concept introduced: everything is a desiring-machine. One of the immediate objections people have to D&G is to say that they are dehumanizing us by taking the side of the capitalists, the military, etc by saying that humans are machines. This is not really the case because the main goal of D&G’s project is to oppose the State and promote human creativity, even creativity in an infinite, cosmic form. Our creativity and potential for freedom comes from the one thing in the universe which is not a “machine”, according to D&G: the body-without-organs, which we will discuss in a moment.
 		</p>
@@ -98,9 +98,9 @@ const UniversalChristianityPage: React.FC<PageProps> = () => {
 		<p>
 		It’s also important to understand that these desiring machines are not actually physically in the brain. For Guattari, the unconscious is not in the brain; it encompasses everything. My friend put it well by saying that if someone is an alcoholic and he has an enabler, that person would be part of his unconscious — it is part of a machine, when I think I am drinking too much, I talk about it to my friend, and he gets me to not stop drinking. Anything which affects your behavior but is not consciously understood by you is part of your unconscious desiring machines.
 		</p>
-		<p>
+		<h4>
 			<b>The body without organs </b>
-		</p>
+		</h4>
 		<p>
 		The body without organs is notoriously the most confusing term in D&G because it’s like God, and as Jacobins they don’t want to be caught talking too much about God. Or in other words it’s the philosophical absolute of the system, the ground on which everything else rests and from where its power derived, and which conceals infinite mystery. Or the body without organs is like Buddha-nature, it’s the thing in your psyche that when you take way all desire, all awareness of the body, all activity, it’s the thing that’s left.
 		</p>
@@ -125,9 +125,9 @@ const UniversalChristianityPage: React.FC<PageProps> = () => {
 		<p>
 		Guattari never advocates for “communism”, but he does advocate for “a new Earth”, “one of healing”. What I interpret this to mean is that in the next phase of society this whole ontology Guattari is describing will have to be understood for what it is, and the “taking credit for” motion the body without organs does under capitalism will no longer happen. People will understand properly that their flows are moved around not ultimately due to marks in a bank account, but due to marks in the collective unconscious, the mind of God(-Man). And people will also understand that they do not act in accordance to a personal will, but to a transpersonal will that cannot be extracted from the will of every other person, and their inscriptions on the collective consciousness. It’s like a neo-shamanism, a neo-Hellenism.
 		</p>
-		<p>
+		<h4>
 			<b>Desiring-production</b>
-		</p>
+		</h4>
 		<p>Ok so we know how to describe the machines, but what are they doing, in a psychological sense?</p>
 		<p>Deleuze said that the central thesis of Anti-Oedipus is that desire is not a lack for a missing object, but desire is creative (we desire worlds; one desires a world which one might then endeavor to bring about).</p>
 		<p>
@@ -136,9 +136,9 @@ const UniversalChristianityPage: React.FC<PageProps> = () => {
 		<p>
 		Where Guattari disagrees with psychoanalysis is here: the analyst believes that he has <i>uncovered</i> something in the unconscious when he draws out a desire like this. But Guattari does not believe that the unconscious can contain representations of things that can be discovered in this way (how can there be an unconscious representation — it would have to be presented to someone to be a reperesentartion). Guattari asserts that when the desiring-machines were forced to free associate by the analyst, they came up with the presentation of one’s desire in that moment as an essentially productive act. 
 		</p>
-		<p>
+		<h4>
 			<b>The three syntheses of desiring production</b>
-		</p>
+		</h4>
 		<p>
 		This is one of the most interesting concepts to me in Anti-Oedipus, because it is absolutely central to the entire ontology, one of the first things introduced, and very mind-bendingly interesting to me, but it seems to have no legs outside of the text. I’ve never seen it used elsewhere, and it doesn’t make it into A Thousand Plateaus.
 		</p>
