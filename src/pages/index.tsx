@@ -15,8 +15,8 @@ const IndexPage: React.FC<PageProps> = () => {
     <li>1. <a href="https://harmlessai.substack.com/p/the-dangers-of-a-safe-large-language">The Dangers of a Safe Large Language Model</a></li>
     <li>2. <a href="https://harmlessai.substack.com/p/is-gpt-3-a-wordcel-and-silicon-valleys">Is GPT-3 a Wordcel?</a></li>
     <li>3. Anti-Yudkowsky </li>
-    <li>4. AGI Drugs You Should Try It</li>
-    <li>5. Ccru's Numogram & the Cosmic Game</li>
+    <li>4. The AI Harmony Research Proposal</li>
+    <li>5. AGI Drugs You Should Try It</li>
     <h3>Corporate Surrealism <span style={{fontSize:'12px'}}>(in association with Harmless AI and WagonDAO)</span> </h3>
     <li>1. Towards a Form of Life</li>
     <li>2. The Corporate Surrealist Vibe Shift</li>
