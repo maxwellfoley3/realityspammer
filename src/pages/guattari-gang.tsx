@@ -42,7 +42,7 @@ const GuattariGangPage: React.FC<PageProps> = () => {
 
 <p>Thus, the goal for the theorist of molecular revolution is not to imagine that she can predict history, find a set of rational laws determining it, or discover the plan for a better society in advance which then might be applied later. Rather, what we can do is lay a sort of theoretical and practical groundwork for seizing upon moments in which a process of radical change suddenly kicks off without anyone necessarily expecting it — we must figure out how to cultivate the fertile grounds for these moments, and prolong and amplify them once they do occur.</p> 
 
-<p>The attitude of molecular revolution is somewhat similar to Heidegger’s idea that “only a God can save us” from contemporary technological society. Specifically, it is like the idea that the philosopher can no present a plan to save society, but merely lay the grounds for a “God” to arrive (which in this context would mean a future sudden rapid series of unpredictable psychosocial shifts). But unlike Heidegger, who retreats to quietism and poetics, Guattari presents a number of formula and schemes for doing positive work in the meantime.</p>
+<p>The attitude of molecular revolution is somewhat similar to Heidegger’s idea that “only a God can save us” from contemporary technological society. Specifically, it is like the idea that the philosopher cannot present a plan to save society, but merely lay the grounds for a “God” to arrive (which in this context would mean a future sudden rapid series of unpredictable psychosocial shifts). But unlike Heidegger, who retreats to quietism and poetics, Guattari presents a number of formula and schemes for doing positive work in the meantime.</p>
 
 <h3>2. Schizoanalysis</h3> 
 
