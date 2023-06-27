@@ -29,7 +29,7 @@ const IndexPage: React.FC<PageProps> = () => {
     <li>2. Towards an Ontology of Social Media</li> 
     <h3>Guattari Gang</h3>
     <li>🌏 Guattari Glossary</li>
-    <li>1. Guattari Gang</li>
+    <li>1. <a href="/guattari-gang">Guattari Gang</a></li>
     <li>2. <a href="/anti-oedipus">Reflections on Anti-Oedipus</a></li>
 
     <h3>Universalist Christianity <span style={{fontSize:'12px'}}>(for WagonDAO)</span></h3>
