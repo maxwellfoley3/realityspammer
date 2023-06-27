@@ -6,15 +6,15 @@ const IndexPage: React.FC<PageProps> = () => {
   return (
     <div className="container">
     <h1>Realworld 🤯 </h1>
-    <p>Hello, I go on the internet by Reality Gamer (tbh kind of over this name might modify it soon) or Realboy.</p>
+    <p>Hello, I go on the internet by Realityspammer or Realboy.</p>
     <p>This is the home page for my various projects. I am working on a writing-machine which consists of several co-enveloping assemblages.</p>
     <p>Generally speaking I am interested in sociocultural structures and technology. I hope for my writing to establish lines to traverse upon which we may discover new evolutionary trajectories for these systems.</p>
-    <p><a href="https://twitter.com/reality__gamer">Twitter</a></p>
+    <p><a href="https://twitter.com/realityspammer">Twitter</a></p>
     <p><a href="https://realitygamer.substack.com">Substack</a></p>
     <h3>AI Harmony <span style={{fontSize:'12px'}}>(for Harmless AI)</span></h3>
     <li>1. <a href="https://harmlessai.substack.com/p/the-dangers-of-a-safe-large-language">The Dangers of a Safe Large Language Model</a></li>
     <li>2. <a href="https://harmlessai.substack.com/p/is-gpt-3-a-wordcel-and-silicon-valleys">Is GPT-3 a Wordcel?</a></li>
-    <li>3. Anti-Yudkowsky </li>
+    <li>3. <a href="https://antiyudkowsky.com">Anti-Yudkowsky</a></li>
     <li>4. The AI Harmony Research Proposal</li>
     <li>5. AGI Drugs You Should Try It</li>
     <h3>Corporate Surrealism <span style={{fontSize:'12px'}}>(in association with Harmless AI and WagonDAO)</span> </h3>
