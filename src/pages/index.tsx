@@ -19,7 +19,7 @@ const IndexPage: React.FC<PageProps> = () => {
     <li>5. AGI Drugs You Should Try It</li>
     <h3>Corporate Surrealism <span style={{fontSize:'12px'}}>(in association with Harmless AI and WagonDAO)</span> </h3>
     <li>1. Towards a Form of Life</li>
-    <li>2. The Corporate Surrealist Vibe Shift</li>
+    <li>2. <a href="/corporate-surrealist-vibe-shift">The Corporate Surrealist Vibe Shift</a></li>
     <li>3. Capitalism vs. Anti-Capitalism</li>
     <li>4. On National Socialism</li>
     <li>5. Towards a Corporate Surrealist Ontology, through Bataille</li>
