@@ -15,7 +15,7 @@ const CSVSPage: React.FC<PageProps> = () => {
 
 		<img src={compass}/>
 
-		<p>We can contrast this with a few other territories. Corporate Realism: this is LinkedIn, the name and the face and the resume, the handshake, mandatory diversity training, “let’s circle back”. It’s the contractual obligation to negate all expression which for some reason is necessary to enter the corporate environment, in the typival case.</p>
+		<p>We can contrast this with a few other territories. Corporate Realism: this is LinkedIn, the name and the face and the resume, the handshake, mandatory diversity training, “let’s circle back”. It’s the contractual obligation to negate all expression which for some reason is necessary to enter the corporate environment, in the typical case.</p>
 
 		<p>There’s also Corporate Anti-Realism. One thing that is important to understand about the Surrealist imperative is that, if anything, it’s more of a reaction to Anti-Realism than it is a reaction to Realism. Surrealism rejects Realism, but is not <i>against</i> it; this is crucially important. Corporate Anti-Realism is kind of like Bitcoin maximalism or Urbit, or other types of fantasies in the direction of anarcho-capitalism. Curtis Yarvin’s “formalism” is peak Anti-Realism. Reactionary anarcho-capitalism is cope because it’s imagining that you could somehow hold in place the corporate structure but reject its aesthetic and spiritual form of expression; without fundamentally changing things.</p>
 
