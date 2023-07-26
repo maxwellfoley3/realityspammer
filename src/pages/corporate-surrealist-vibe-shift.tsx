@@ -1,6 +1,7 @@
 import * as React from "react"
 import type { HeadFC, PageProps } from "gatsby"
 import "./index.scss"
+import compass from "../images/corporate-realism-compass.jpg"
 
 const CSVSPage: React.FC<PageProps> = () => {
   return (
@@ -12,7 +13,7 @@ const CSVSPage: React.FC<PageProps> = () => {
 
 		<p>Corporate Surrealism is a good designator of a vibe shift because you already know what it means when you read it, right? Basically we are bringing a surrealist attitude and vibe to corporate settings and structures. Fundamentally this is about expression. We need to at some point historicize this in the context of the surrealist art movement and its origin point, but let’s say for now — to be surreal is to be strange, aloof, provocative, violent, erotic, devoted, in love, erratic, implacable, not-of-this-world… if you want to be, that is.</p>
 
-		<img src="https://i.ibb.co/WB87TTP/corporate-realism-compass.png"/>
+		<img src={compass}/>
 
 		<p>We can contrast this with a few other territories. Corporate Realism: this is LinkedIn, the name and the face and the resume, the handshake, mandatory diversity training, “let’s circle back”. It’s the contractual obligation to negate all expression which for some reason is necessary to enter the corporate environment, in the typival case.</p>
 
