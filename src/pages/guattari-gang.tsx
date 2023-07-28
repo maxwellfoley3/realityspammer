@@ -6,6 +6,8 @@ const GuattariGangPage: React.FC<PageProps> = () => {
   return (
     <div className="container">
     <h1>Guattari Gang</h1>
+    <div><a href="/">← Home</a></div>
+
 		<p>Recently I have made major strides in my perhaps-pathological quest to obsessively reread Deleuze & Guattari’s texts until I feel as if I have mastered them by stumbling upon a key insight: Guattari is more important than Deleuze.</p>
 
 <p>People will admit that <i>Anti-Oedipus</i> is almost entirely Guattari’s text and that Deleuze primarily served as editor. But when one reads Guattari’s solo works written between the publication of <i>Anti-Oedipus</i> and <i>A Thousand Plateaus</i> (eg <i>The Machinic Unconscious</i>), it seems clear that the majority of ideas in the second volume must be Guattari’s as well — or at least he is the one supplying the primary ideational thrust which then gets reinforced and filled in by the extraordinary Deleuze.</p>

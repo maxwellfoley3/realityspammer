@@ -7,6 +7,7 @@ const CSVSPage: React.FC<PageProps> = () => {
   return (
     <div className="container">
     <h1>The Corporate Surrealist Vibe Shift</h1>
+		<div><a href="/">← Home</a></div>
 		<p>Okay, so everyone wants to know what Corporate Surrealism is. But first of all, we’re not sure if defining things is actually something we want to do. Once you’re defined, that’s the first stage in the process of getting captured, becoming real. The most successful vibe shifts seem to also totally lack definitions — take “wokeness” for example. Keep it open-ended, keep it loose, keep it extensible. Make it only a signpost, an indicator of a territory. And then put materials in that territory that people can run away with.</p>
 
 		<p>Even if we more ground it more theoretically — which is the plan eventually — Corporate Surrealism has to first and foremost be a vibe, and remain one. Even if the goal is also discover a solution to our conceptual, political, and spiritual problems. It begins and ends in a vibe.</p>

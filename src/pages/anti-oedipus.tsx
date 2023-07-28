@@ -6,6 +6,7 @@ const UniversalChristianityPage: React.FC<PageProps> = () => {
   return (
     <div className="container">
     <h1>Reflections on Anti-Oedipus</h1>
+		<div><a href="/">← Home</a></div>
     <p>Just finished another re read of Anti-Oedipus and for the first time I feel like I finally understand everything going on.</p>
 		<p>
 		What is impressive about this book is how singular of an achievement it is — never before has anyone placed psychic and economic structures in a single conceptual system, and described a universal human history derived from it.

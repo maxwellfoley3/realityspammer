@@ -6,6 +6,8 @@ const UniversalChristianityPage: React.FC<PageProps> = () => {
   return (
     <div className="container">
     <h1>Towards Universalist Christianity</h1>
+    <div><a href="/">← Home</a></div>
+
     <p>How does Christianity become Universal?</p>
     <p>I was thinking this: the fundamental problem in the West is this gap we have between religion and philosophy. Other cultures don’t have this.</p>
     <p>Guenon says that the reason the West failed to remain a stable Traditional society and developed modernity (ie capitalism) is because it didn’t attach a metaphysics to its religion. Christ didn’t invent a metaphysics, it had to be grafted on from Plato / Aristotle by the church.</p>
