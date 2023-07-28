@@ -142,7 +142,7 @@ const CSVSPage: React.FC<PageProps> = () => {
   )
 }
 
-export const Head: HeadFC = () => <title>The Corporate Surrealist Vibe Shift</title>
+export const Head: HeadFC = () => <title>The AI Harmony Research Program</title>
 
 export default CSVSPage
 
