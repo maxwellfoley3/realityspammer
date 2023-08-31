@@ -11,6 +11,7 @@ const IndexPage: React.FC<PageProps> = () => {
     <p>Generally speaking I am interested in sociocultural structures and technology. I hope for my writing to establish lines to traverse upon which we may discover new evolutionary trajectories for these systems.</p>
     <p><a href="https://twitter.com/realityspammer">Twitter</a></p>
     <p><a href="https://realitygamer.substack.com">Substack</a></p>
+    <p><a href="https://instagram.com/realityspammer">Instagram</a></p>
     <h3>AI Harmony <span style={{fontSize:'12px'}}>(for Harmless AI)</span></h3>
     <li>1. <a href="https://harmlessai.substack.com/p/the-dangers-of-a-safe-large-language">The Dangers of a Safe Large Language Model</a></li>
     <li>2. <a href="https://harmlessai.substack.com/p/is-gpt-3-a-wordcel-and-silicon-valleys">Is GPT-3 a Wordcel?</a></li>
