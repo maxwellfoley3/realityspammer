@@ -21,7 +21,7 @@ const IndexPage: React.FC<PageProps> = () => {
     <li>1. Towards a Form of Life</li>
     <li>2. <a href="/corporate-surrealist-vibe-shift">The Corporate Surrealist Vibe Shift</a></li>
     <li>3. Capitalism vs. Anti-Capitalism</li>
-    <li>4. On National Socialism</li>
+    <li>4. <a href="/national-socialism">On National Socialism</a></li>
     <li>5. Towards a Corporate Surrealist Ontology, through Bataille</li>
     <li>6. Towards a Corporate Surrealist Ontology, through Hjemslev</li>
     <h3>Web4</h3>
