@@ -8,7 +8,7 @@ const NationalSocialism: React.FC<PageProps> = () => {
     <h1>On National Socialism</h1>
 		<div><a href="/">← Home</a></div>
 		<p>
-		“Oh no, it says ‘On National Socialism’, is he about to say something impossibly controversial and brave?” You will have to read on to find out.
+		<i>“Oh no, it says ‘On National Socialism’, is he about to say something impossibly controversial and brave?”</i> You will have to read on to find out.
 		</p>
 		<p>
 The paradox I want to begin this note by investigating is: why is it the case that we use the word “fascism” all the time to describe the negative outcome for civilization — we take moral offense to something so we call it “fascist”, we talk about the danger of America falling into “fascism”, “fascism” becomes the term that is used for cruelty and injustice in general — when the situation we have in mind that we are scared of is not Mussolini’s Italy, but rather Adolf Hitler’s Germany, which called itself National Socialist?
