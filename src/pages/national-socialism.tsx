@@ -129,7 +129,7 @@ Surrealism, as the only path worth staking out towards a future, has to take sev
 </p>
 		<p>
 			<li>
-Continuing attention to political questions as such, while sticking to a refusal to engage with the political field as it is currently constructed, including specifically the left-right binary, which is a construct that has emerged in the aftermath of the French Revolution designating the range of possibilities for a Republican nation-state. As we have made clear in this document, this range of possibilities is not sufficient, so we do not exist on “the political spectrum”.  
+- Continuing attention to political questions as such, while sticking to a refusal to engage with the political field as it is currently constructed, including specifically the left-right binary, which is a construct that has emerged in the aftermath of the French Revolution designating the range of possibilities for a Republican nation-state. As we have made clear in this document, this range of possibilities is not sufficient, so we do not exist on “the political spectrum”.  
 </li>
 <li>
 - Committing to refuse to participate in the public spectacles of cruelty and despising of one’s neighbor that the system will increasingly demand as this dynamic continues, whether in the majoritarian-supremacist path or in the fragmenting neoliberal war of all against all.
