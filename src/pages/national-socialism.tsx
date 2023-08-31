@@ -138,7 +138,7 @@ Continuing attention to political questions as such, while sticking to a refusal
 - Willingness to wait for a moment of political change outside of this spectrum which might emerge suddenly, all at once, as if in a miracle. (This of course is not a physics-defying supernatural intervention, but rather a social possibility that exists entirely outside the space of what can be currently articulated or signified. That being said, physics creates a lot of potential avenues to happen via imminent technological change.)
 </li>
 
-Surrealism, as the only remaining possibility, is not exactly a philosophy for mature, sober adults. It is actually a very naive and childish belief, in the sense indicated by Thus Spoke Zarathustra.
+Surrealism, as the only remaining possibility, is not exactly a philosophy for mature, sober adults. It is actually a very naive and childish belief, in the sense indicated by <i>Thus Spoke Zarathustra</i>.
 </p>
 		<p>
 As we have laid these three worldviews out here — National Socialism, neoliberalism, and Surrealism — it is important to recognize that this is all very orthogonal to the left-right divide as it is typically imagined, or the ridiculous “culture war”. In all three cases, they are expressed on both side of this divide, which is increasingly becoming about arbitrary semiotics rather than actual investigation into political form. Bernie Sanders v. Naharenda Modi. Hillary Clinton v. Ben Shapiro. Ecofeminist anarchist co-ops vs. Jesus movement homesteading.
