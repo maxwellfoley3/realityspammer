@@ -127,7 +127,6 @@ To make this decision is the beginning of what I am calling Surrealism, in its p
 		<p>
 Surrealism, as the only path worth staking out towards a future, has to take several similar decisions:
 </p>
-		<p>
 			<li>
 - Continuing attention to political questions as such, while sticking to a refusal to engage with the political field as it is currently constructed, including specifically the left-right binary, which is a construct that has emerged in the aftermath of the French Revolution designating the range of possibilities for a Republican nation-state. As we have made clear in this document, this range of possibilities is not sufficient, so we do not exist on “the political spectrum”.  
 </li>
