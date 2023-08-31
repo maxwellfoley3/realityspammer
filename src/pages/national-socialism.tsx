@@ -137,12 +137,13 @@ Surrealism, as the only path worth staking out towards a future, has to take sev
 <li>
 - Willingness to wait for a moment of political change outside of this spectrum which might emerge suddenly, all at once, as if in a miracle. (This of course is not a physics-defying supernatural intervention, but rather a social possibility that exists entirely outside the space of what can be currently articulated or signified. That being said, physics creates a lot of potential avenues to happen via imminent technological change.)
 </li>
-
-Surrealism, as the only remaining possibility, is not exactly a philosophy for mature, sober adults. It is actually a very naive and childish belief, in the sense indicated by <i>Thus Spoke Zarathustra</i>.
-</p>
 		<p>
 As we have laid these three worldviews out here — National Socialism, neoliberalism, and Surrealism — it is important to recognize that this is all very orthogonal to the left-right divide as it is typically imagined, or the ridiculous “culture war”. In all three cases, they are expressed on both side of this divide, which is increasingly becoming about arbitrary semiotics rather than actual investigation into political form. Bernie Sanders v. Naharenda Modi. Hillary Clinton v. Ben Shapiro. Ecofeminist anarchist co-ops vs. Jesus movement homesteading.
 </p>
+<p>
+Surrealism, as the only remaining possibility, is not exactly a philosophy for mature, sober adults. It is actually a very naive and childish belief, in the sense indicated by <i>Thus Spoke Zarathustra</i>.
+</p>
+
 		<p>
 I once was watching a stream by the “patriotic socialist” ideologue <a href="https://twitter.com/InfraHaz">Haz Al-Din</a>. He was characterizing his movement’s enemies as adult children, “woke snowflakes”, whose ideal of the coming society is an infantile regression in which they are projecting childish dreams and fantasizing impossible things, such as “that life will be all colorful like a video game, there will be pink jellyfish flying around in the skies” (paraphrase from memory, I wouldn’t be able to find the clip if I tried). Against this, he posits a hard headed commitment to a National Socialism based around work, industry, patriarchy, national identity, and so on.
 </p>
