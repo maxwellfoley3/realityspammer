@@ -18,6 +18,7 @@ const IndexPage: React.FC<PageProps> = () => {
     <li>3. <a href="https://antiyudkowsky.com">Anti-Yudkowsky</a></li>
     <li>4. <a href="/ai-harmony-research">The AI Harmony Research Program</a></li>
     <li>5. AGI Drugs You Should Try It</li>
+    <li>6. <a href="/what-is-ai-harmony">What is AI Harmony? And where to begin?</a></li>
     <h3>Corporate Surrealism <span style={{fontSize:'12px'}}>(in association with Harmless AI and WagonDAO)</span> </h3>
     <li>1. Towards a Form of Life</li>
     <li>2. <a href="/corporate-surrealist-vibe-shift">The Corporate Surrealist Vibe Shift</a></li>
