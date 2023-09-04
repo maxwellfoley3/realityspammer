@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Cardo:wght@400;800');
 
 body {
-	background-color: #ffd2cf;
+	background-color: #efcfff;
 	font-family: 'Cardo', serif;
 }
 
@@ -15,7 +15,28 @@ p {
 	text-indent: 25px;
 }
 
+.container-outer.dark{
+	position:absolute;
+	top:0;
+	left:0;
+	width:100vw;
+	background-color: #080308;
+}
 .container {
+
+	&.dark {
+		color:#fbeaff;
+		h1 {
+			color:#d59d00;
+		}
+		h2 {
+			color:#d99f00;
+		}
+		p {
+			line-height: 1.5;
+
+		}
+	}
 	max-width: 600px;
 	@media (min-width: 600px) {
 		margin-left: 100px;
