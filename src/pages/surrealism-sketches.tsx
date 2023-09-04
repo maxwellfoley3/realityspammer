@@ -75,7 +75,7 @@ const WhatIsAiHarmony: React.FC<PageProps> = () => {
   )
 }
 
-export const Head: HeadFC = () => <title>What is AI Harmony? And where to begin?
+export const Head: HeadFC = () => <title>Sketches towards the return of Surrealism
 </title>
 
 export default WhatIsAiHarmony
