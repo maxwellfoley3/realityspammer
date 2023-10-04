@@ -66,7 +66,7 @@ But of course, the “loss of meaning” is still yet hardly the greatest danger
 
 **4.**
 
-The pro-technology attitude towards AI and other things is often given a name: accelerationism. This terms comes from the theorist Nick Land, a misanthrope who argues in favor of human extinction. 
+The pro-technology attitude towards AI and other things is often given a name: accelerationism. This term comes from the theorist Nick Land, a misanthrope who argues in favor of human extinction. 
 
 Land is eagerly pro-capitalism, but from the perspective of a sort of transcendental Capital which is the concept of increasing intelligence embedded in technology, and exists wherever the universe is applying pressures in favor of its reproduction, not merely in, say, decisions made by capitalist firms. To Land, Capital is like a time-traveling entity — it culminates in global artificial intelligence, the godhead of the Singularity, which presents itself as if it had injected the kernel logic of Capital in our social body at some point in the past to hijack and destroy man.
 
