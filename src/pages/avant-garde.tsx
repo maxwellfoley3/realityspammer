@@ -11,7 +11,9 @@ const CSVSPage: React.FC<PageProps> = () => {
 			There is an ongoing "vibe shift" in downtown NYC in which people are gradually rejecting the
 			existing Dimes Square scene centered around podcasts such as Red Scare and other reactionary 
 			internet personalities and its triviality, petty chauvinism, and inability to create
-			artworks or texts with a sense of lasting beyond fleeting cultural moments or fits of discourse.
+			artworks or texts with a sense of lasting beyond fleeting cultural moments or fits of discourse. 
+			I have also argued that this is coinciding with an imminent narrative collapse regarding most of the forms
+			of Western civilization, such as democracy.
 		</p>
 		<p>
 			People are craving a new, self-conscious avant-garde that is spiritual, philosophical,
@@ -26,7 +28,9 @@ const CSVSPage: React.FC<PageProps> = () => {
 			In <a href="https://antiyudkowsky.com/harmony.html#the-assembly-of-the-multiplicity">the conclusion to <i>Anti-Yudkowsky</i></a>, I wrote:
 		</p>
 		<p>
+			<i>
 			"Yes, we need a techno-theological congregation to save our souls. But not one modeled after RAND Corporation, the war machine, the dominators, but those with the nobler spirits we strive towards, the adventurers, the ones who have shown us the glittered paths laid upon the ziggurat towards the apex of our own souls, so that we may trace across these paths to reveal the soul of the world itself. We love engineers, but it’s not an engineering problem, just like art or war mostly is not an engineering problem either. No more 'What if RAND Corp was a Quaker congregation' but 'What if the Situationist International was a high-growth tech startup, and also — a drum circle outside of the entrance to a rave?'"
+			</i>
 		</p>
 		<p>
 			Though this excerpted text is about artificial intelligence, I would argue that the same sentiment applies to digital technology in general - the fate of the internet, and other things. 
@@ -46,7 +50,7 @@ const CSVSPage: React.FC<PageProps> = () => {
 			 towards political questions
 		</p>
 		<p>
-			2. <a href="https://realboy.fr/surrealism-sketches/">Sketches towards the return of Surrealism</a>, on the attitudes and new points of origin 
+			2. <a href="https://realboy.fr/surrealism-sketches">Sketches towards the return of Surrealism</a>, on the attitudes and new points of origin 
 			for a cosmopolitan artistic avant-garde
 		</p>
 		<p>
@@ -54,7 +58,7 @@ const CSVSPage: React.FC<PageProps> = () => {
 			on how people should talk and not talk about technology, the need for a "non tech-brained" tech circle
 		</p>
 		<p>
-			4. <a>Introduction to Infinite Exits</a>, the beginning of an absolutely-nowhere-near-finished, potentially lengthy text which 
+			4. <a href="https://realboy.fr/infinite-exits">Introduction to Infinite Exits</a>, the beginning of an absolutely-nowhere-near-finished, potentially lengthy text which 
 			would be the "sequel" to Anti-Yudkowsky (you can catch the D&G parallel I'm sure), and critique neoreaction while 
 			tackling the same subject matter of how can conscious self-construction of a polis be possible by a vanguard that 
 			wields new untapped potentials in technology. The text here is a call for this vanguard.
