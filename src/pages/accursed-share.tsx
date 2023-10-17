@@ -120,28 +120,31 @@ A lot of the debate about what the essence of Gnosticism is reflects an irritati
 I intend to read most of Bataille’s work, it seems to me like he might be a very crucial figure to build from. I can think of a number of arguments in favor of Bataille being a tentative candidate for figurehead at the helm of a conceptual vehicle which for now might be called “Surrealism NYC”.
 </p>
 <p>
-- We can historicize ourselves as the true heirs of 20th century Surrealism, following Bataille’s exile from Surrealism by Breton (who does Breton think he is, the Pope?)
+● We can historicize ourselves as the true heirs of 20th century Surrealism, following Bataille’s exile from Surrealism by Breton (who does Breton think he is, the Pope?)
 </p>
 <p>
-- General economy can be made as the basis to develop Divine Economy from — amazingly, there already is waiting for us the start of a Surrealist theory of political economy.
+● General economy can be made as the basis to develop Divine Economy from — amazingly, there already is waiting for us the start of a Surrealist theory of political economy.
 </p>
 <p>
-Something like gnosticism is perhaps a good conceptual handle to continue our investigations under, which delve into spiritual considerations as necessary to ground the ethical, including taking into account the revelatory and so on, without being beholden to dogma, tradition, sects, or even necessarily theism.
+● Something like gnosticism is perhaps a good conceptual handle to continue our investigations under, which delve into spiritual considerations as necessary to ground the ethical, including taking into account the revelatory and so on, without being beholden to dogma, tradition, sects, or even necessarily theism.
 </p>
 <p>
-Bataille is useful as a non-Marxist theory of political economy that is also critical and redemptive. The fallout with JM has only increased my conviction that Marxist class analysis assigning a destined redemptive role to the poor is at this point irrelevant and poisonous. From a Bataillean perspective, it is perhaps the downwardly mobile bourgeois, trust fund kids etc, who are the revolutionary, or even just divine class, as they alone have the opportunity to grossly squander. Let’s Make A Vibe Shift In Dimes Square.
+● Bataille is useful as a non-Marxist theory of political economy that is also critical and redemptive. The fallout with JM has only increased my conviction that Marxist class analysis assigning a destined redemptive role to the poor is at this point irrelevant and poisonous. From a Bataillean perspective, it is perhaps the downwardly mobile bourgeois, trust fund kids etc, who are the revolutionary, or even just divine class, as they alone have the opportunity to grossly squander. Let’s Make A Vibe Shift In Dimes Square.
 </p>
 <p>
-Similarly, we can argue that 20th century Surrealism failed in its world-historical potential by Breton’s insistence on wedding it to revolutionary Marxism-Leninism. Dali emerging as the most successful Surrealist after explicitly becoming a fascist and then culminating his career with a party at the Rothschild mansion which inspired <i>Eyes Wide Shut</i> at the very least indicates that the spirit of Surrealism is not exactly a natural fit with that of doctrinaire revolutionary Marxism. 
+● Similarly, we can argue that 20th century Surrealism failed in its world-historical potential by Breton’s insistence on wedding it to revolutionary Marxism-Leninism. Dali emerging as the most successful Surrealist after explicitly becoming a fascist and then culminating his career with a party at the Rothschild mansion which inspired <i>Eyes Wide Shut</i> at the very least indicates that the spirit of Surrealism is not exactly a natural fit with that of doctrinaire revolutionary Marxism. 
 </p>
 <p>
-Bataille’s attempt at founding an esoteric secret society and later imitation of this model by Nick Land, the remnants of which would eventually become the Urbanomic milieu we are in dialogue with, suggests a potential adventure point for Corporate Surrealist praxis.
+● Bataille’s attempt at founding an esoteric secret society and later imitation of this model by Nick Land, the remnants of which would eventually become the Urbanomic milieu we are in dialogue with, suggests a potential adventure point for Corporate Surrealist praxis.
 </p>
 <p>
-Bataille’s “base materialism” has a strong conceptual ring with Lil B’s “based” and “the based God”, who I (I am perfectly aware that this is eccentric) take quite seriously as a conceptual persona and world-historical poet and <a href="https://realitygamer.substack.com/p/based-deleuze">have attempted to synthesize with Nietzschean and Deleuzean ethics on Substack</a>.
+● Bataille’s “base materialism” has a strong conceptual ring with Lil B’s “based” and “the based God”, who I (I am perfectly aware that this is eccentric) take quite seriously as a conceptual persona and world-historical poet and <a href="https://realitygamer.substack.com/p/based-deleuze">have attempted to synthesize with Nietzschean and Deleuzean ethics on Substack</a>.
 </p>
 <p>
-Bataille is a direct textual bridge between Blake and Guattari, who have heretofore been the authors I have taken most seriously as developing programs for the improvement (or probably more accurately, redemption) of society.
+● Bataille is a direct textual bridge between Blake and Guattari, who have heretofore been the authors I have taken most seriously as developing programs for the improvement (or probably more accurately, redemption) of society.
+</p>
+<p>
+Of course, this is all getting a bit carried away and the destiny of the project should emerge gradually and naturally — I am becoming a bit overexcited. 
 </p>
     </div>
 		
