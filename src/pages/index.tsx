@@ -19,9 +19,9 @@ const IndexPage: React.FC<PageProps> = () => {
     <li>4. <a href="/ai-harmony-research">The AI Harmony Research Program</a></li>
     <li>5. <a href="/what-is-ai-harmony">What is AI Harmony? And where to begin?</a></li>
     <h3>Realboyism</h3>
-    <li>Based Deleuze</li>
+    <li><a href="https://realitygamer.substack.com/p/based-deleuze">Based Deleuze</a></li>
     <li>1. <a href="https://realitygamer.substack.com/p/realboyism-fall-of-the-fall-agi-drugs">Fall of the Fall & AGI Drugs You Should Try It</a></li>
-    <li>2. <a href="https://realitygamer.substack.com/p/based-deleuze">Canal Street Fashion</a></li>
+    <li>2. Canal Street Fashion</li>
     <h3>Corporate Surrealism <span style={{fontSize:'12px'}}>(in association with Harmless AI and WagonDAO)</span> </h3>
     <li>1. Towards a Form of Life</li>
     <li>2. <a href="/corporate-surrealist-vibe-shift">The Corporate Surrealist Vibe Shift</a></li>
