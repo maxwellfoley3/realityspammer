@@ -22,7 +22,7 @@ const IndexPage: React.FC<PageProps> = () => {
     <li><a href="https://realitygamer.substack.com/p/based-deleuze">Based Deleuze</a></li>
     <li>1. <a href="https://realitygamer.substack.com/p/realboyism-fall-of-the-fall-agi-drugs">Fall of the Fall & AGI Drugs You Should Try It</a></li>
     <li>2. Canal Street Fashion</li>
-    <h3>Corporate Surrealism <span style={{fontSize:'12px'}}>(in association with Harmless AI and WagonDAO)</span> </h3>
+    <h3>Corporate Surrealism <span style={{fontSize:'12px'}}>(in association with Harmless AI and Wagon Box)</span> </h3>
     <li>1. Towards a Form of Life</li>
     <li>2. <a href="/corporate-surrealist-vibe-shift">The Corporate Surrealist Vibe Shift</a></li>
     <li>3. Capitalism vs. Anti-Capitalism</li>
@@ -37,7 +37,7 @@ const IndexPage: React.FC<PageProps> = () => {
     <li>1. <a href="/guattari-gang">Guattari Gang</a></li>
     <li>2. <a href="/anti-oedipus">Reflections on Anti-Oedipus</a></li>
 
-    <h3>Universalist Christianity <span style={{fontSize:'12px'}}>(for WagonDAO)</span></h3>
+    <h3>Universalist Christianity <span style={{fontSize:'12px'}}>(for Wagon Box)</span></h3>
     <li>1. <a href="/universalist-christianity">Towards Universalist Christianity</a></li>
     </div>
   )
