@@ -69,6 +69,9 @@ const HelloWorld: React.FC<PageProps> = () => {
 		I can sympathize heavily with this need to be “self-made”. George Santos is apparently able to accomplish this operation where he builds his identity bit by bit by making statements which take on an existential function, even though they are false (he is able to quickly forget this). This is similar to how <a href="https://x.com/realityspammer">in my X bio</a> it says “<i>Corporate surrealist community ambassador. Product manager @harmlessai</i>” even though neither of these titles are “real things” per se, I just made them up. But after I make them up, they take on an existential grounding function.
 		</p>
 		<p>
+		Basically how I experience the construction of the self is that I will regularly wake up and find myself completely confused, not knowing who I am or what my desires are or what my life trajectory thus far indicates or where it is going. Usually if I tell people I’m depressed or something they will give me the advice of “don’t overthink things” or “go do something relaxing, touch grass”, but neither of these work; whenever I feel this way, I must actively make myself un-depressed. To make this happen, I will have to take a two-hour walk around Brooklyn in which I will take account of all the shattered pieces of my life, and somehow glue them together one-by-one.
+		</p>
+		<p>
 		Gradually, through intense contemplation, the various frayed strands of desire will be woven once more, and a self will begin to form: here is how I am able to use the pronoun “I” again, because I am no longer a confused mess of passions and perspectives, but <i>a thing that knows what it believes, knows where it is going</i>. The “I” picks up on new cues for direction and assembles itself in my head — it starts to rehearse conversations, develop new points of view — if someone said such-and-such to me, then this is what I would say in return, etc.
 		</p>
 		<p>
