@@ -15,6 +15,11 @@ p {
 	text-indent: 25px;
 }
 
+.date {
+	position:relative;
+	top:-18px;
+}
+
 .container-outer.dark{
 	position:absolute;
 	top:0;
@@ -53,4 +58,8 @@ p {
 		margin-left: auto;
 		margin-right: auto;
 	}
+}
+.dot-separator {
+	padding-left:7px;
+	padding-right:7px;
 }

@@ -2,7 +2,7 @@ import * as React from "react"
 import type { HeadFC, PageProps } from "gatsby"
 import "./index.scss"
 
-const IndexPage: React.FC<PageProps> = () => {
+const IndexPage: React.FC<PageProps> = ({ data, location}) => {
   return (
     <div className="container">
     <h1>Realworld 🤯 </h1>
@@ -12,6 +12,8 @@ const IndexPage: React.FC<PageProps> = () => {
     <p><a href="https://twitter.com/realityspammer">Twitter</a></p>
     <p><a href="https://realitygamer.substack.com">Substack</a></p>
     <p><a href="https://instagram.com/realityspammer">Instagram</a></p>
+    <h3>Blog</h3>
+    <li><i>December 16, 2023</i> <span className="dot-separator">•</span> <a href="/blog/hello-world">New Blog Hello World</a></li>
     <h3>AI Harmony <span style={{fontSize:'12px'}}>(for Harmless AI)</span></h3>
     <li>1. <a href="https://harmlessai.substack.com/p/the-dangers-of-a-safe-large-language">The Dangers of a Safe Large Language Model</a></li>
     <li>2. <a href="https://harmlessai.substack.com/p/is-gpt-3-a-wordcel-and-silicon-valleys">Is GPT-3 a Wordcel?</a></li>
