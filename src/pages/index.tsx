@@ -13,6 +13,7 @@ const IndexPage: React.FC<PageProps> = ({ data, location}) => {
     <p><a href="https://realitygamer.substack.com">Substack</a></p>
     <p><a href="https://instagram.com/realityspammer">Instagram</a></p>
     <h3>Blog</h3>
+    <li><i>December 22, 2023</i> <span className="dot-separator">•</span> <a href="/blog/what-is-deleuze">What is Deleuze doing? Or trying to do?</a></li>
     <li><i>December 16, 2023</i> <span className="dot-separator">•</span> <a href="/blog/hello-world">New Blog Hello World</a></li>
     <h3>AI Harmony <span style={{fontSize:'12px'}}>(for Harmless AI)</span></h3>
     <li>1. <a href="https://harmlessai.substack.com/p/the-dangers-of-a-safe-large-language">The Dangers of a Safe Large Language Model</a></li>
