@@ -93,9 +93,7 @@ const CSVSPage: React.FC<PageProps> = () => {
 		<p>
 		There must be a way to "construct one's own fortresses" that allows one to go on adventures into the unknown and return to sanity without introjecting social censorship. 
 		</p>
-		<p>
-			<b>Auto-grounding</b>
-		</p>
+			<h4>Auto-grounding</h4>
 		<p>
 		Autology cannot ground itself on another discipline. It exists within itself as one of its objects.
 		</p>
