@@ -72,6 +72,6 @@ const CSVSPage: React.FC<PageProps> = () => {
   )
 }
 
-export const Head: HeadFC = () => <title>Autology Manifest</title>
+export const Head: HeadFC = () => <title>York</title>
 
 export default CSVSPage
