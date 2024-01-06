@@ -41,7 +41,7 @@ const CSVSPage: React.FC<PageProps> = () => {
 		Infrastructure
 		</h3>
 		<p>
-		Would need to have a back end software which is the node in which things are hosted, and then a UI toolkit to 
+		Would need to have a back end software which is the node in which things are hosted, and then a UI toolkit to integrate it into your site
 		</p>
 		<p>
 		There could be a hosted service for people who don't want to do much configuration of it themselves
