@@ -7,6 +7,7 @@ const CSVSPage: React.FC<PageProps> = () => {
     <div className="container">
     <h1>After Optimism</h1>
 		<div><a href="/">← Home</a></div>
+		<h3>Bad times</h3>
 		<p>
 		Things seem pretty bad lately. Let’s look at what’s going on:
 		</p>
@@ -34,6 +35,7 @@ const CSVSPage: React.FC<PageProps> = () => {
 		<p>
 		The point at hand is not so much to complain about life — some will be able to enjoy themselves despite all this ongoing catastrophe, pockets of beauty may exist — but rather we must remark upon the collapse of a civilizational-level meta-narrative with nothing left to replace it in its absence. 
 		</p>
+		<h3>The secular narrative</h3>
 		<p>
 		Since roughly the French Revolution, social and political life has been guided by the idea that the world will be made better through human will. This is the project of Enlightenment humanism. 
 		</p>
@@ -52,6 +54,7 @@ const CSVSPage: React.FC<PageProps> = () => {
 		<p>
 		How many people have moved on from an inner narrative of progress to an expectation of chaos? It is unclear because these things are not talked about. It’s not good to spread despair. Every time someone asks you “hi, how are you?” you say “doing well”. Even within online discourse, this sort of “doomer” “Mark Fisher capitalist realism” “dystopia” posting takes on a kind of flippant, memetic quality which makes its gravity unclear. Sometimes you will get it all at once on a Hinge date: the delicate premise in which it’s acceptable to rapidly escalate in intimacy with a total stranger will have you talking about how she doesn’t have pets but might get some to ten minutes later seeing this person breaking down in front of you about how the world is ending and she sees no hope for the future.
 		</p>
+		<h3>The tragic view</h3>
 		<p>
 		Maybe we should back up for a second. Is it really true that it is not possible to meaningfully live under conditions of decline, chaos, uncertainty, collapse? Have people not done this before? One could for instance point to Norse mythology in which (I’m going to repeat from memory) the world is being sustained by heroic gods fighting against terrible giants, the latter of which consistently take victories and are certain to eventually annihilate both the gods and the world. Pre-modern societies generally believe themselves to be living under situations of decline such as this — the Vedas tell the Hindus that we are living in the most fallen of the four <i>yugas</i>, just as Hesiod tells the Greeks that we are living in the last and worst of five successive ages.
 		</p>
