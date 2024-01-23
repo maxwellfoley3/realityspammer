@@ -100,7 +100,7 @@ const HelloWorld: React.FC<PageProps> = () => {
 		</p>
 		<h2>Microcelebrity</h2>
 		<p>
-		Thank the stars for the ability to digitally construct selves, however, because if I didn’t have this I would pretty much have to conceive of myself as a loser, I think, because I don’t own any capital or have really much of a promising career — other than software engineering which pays well but is a career with limited growth prospects to box in people with social deficiencies I feel like sometimes.
+		Thank the stars for the ability to digitally construct selves, however, because if I didn’t have this I would pretty much have to conceive of myself as a loser, I think, because I don’t own any capital{/* or have really much of a promising career — other than software engineering which pays well but is a career with limited growth prospects to box in people with social deficiencies I feel like sometimes*/}.
 		</p>
 		<p>
 		On the contrary, due to the cyber world, I’ve had attractive women tell me “oh my gosh, I didn’t know you were a <i>celebrity”</i>. Are they really that impressed with six thousand X followers? Sometimes they are. Sometimes people recognize me on the street and say “I’m a fan of your work” — not often, but it happens.
