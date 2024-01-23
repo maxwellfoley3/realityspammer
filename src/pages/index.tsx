@@ -40,6 +40,9 @@ const IndexPage: React.FC<PageProps> = ({ data, location}) => {
     <li>🌏 Guattari Glossary</li>
     <li>1. <a href="/guattari-gang">Guattari Gang</a></li>
     <li>2. <a href="/anti-oedipus">Reflections on Anti-Oedipus</a></li>
+    <h3>Podcast appearances</h3>
+    <li><i>August 28, 2023</i> <span className="dot-separator">•</span> <a href="https://www.patreon.com/posts/168-i-mega-gamer-88066848">Contain</a></li>
+    <li><i>June 15, 2022</i> <span className="dot-separator">•</span> <a href="https://castbox.fm/episode/The-BUNTZCAST-1%3A-Reality-Gamer-id4980025-id506814280?country=us">Buntzcast</a></li>
     {
       /*
       <h3>Universalist Christianity <span style={{fontSize:'12px'}}>(for Wagon Box)</span></h3>
