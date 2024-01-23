@@ -30,7 +30,7 @@ const IndexPage: React.FC<PageProps> = ({ data, location}) => {
     <li>1. Towards a Form of Life</li>
     <li>2. <a href="/corporate-surrealist-vibe-shift">The Corporate Surrealist Vibe Shift</a></li>
     <li>3. Capitalism vs. Anti-Capitalism</li>
-    <li>4. <a href="/national-socialism">On National Socialism</a></li>
+    <li>4. <a href="/national-socialism">Against National Socialism</a></li>
     <li>5. Towards a Corporate Surrealist Ontology, through Bataille</li>
     <li>6. Towards a Corporate Surrealist Ontology, through Hjemslev</li>
     <h3>Web4</h3>
@@ -40,10 +40,14 @@ const IndexPage: React.FC<PageProps> = ({ data, location}) => {
     <li>🌏 Guattari Glossary</li>
     <li>1. <a href="/guattari-gang">Guattari Gang</a></li>
     <li>2. <a href="/anti-oedipus">Reflections on Anti-Oedipus</a></li>
-
-    <h3>Universalist Christianity <span style={{fontSize:'12px'}}>(for Wagon Box)</span></h3>
-    <li>1. <a href="/universalist-christianity">Towards Universalist Christianity</a></li>
+    {
+      /*
+      <h3>Universalist Christianity <span style={{fontSize:'12px'}}>(for Wagon Box)</span></h3>
+      <li>1. <a href="/universalist-christianity">Towards Universalist Christianity</a></li>
+      */
+    }
     </div>
+    
   )
 }
 
