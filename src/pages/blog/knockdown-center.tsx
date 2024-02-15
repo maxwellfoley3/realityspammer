@@ -43,10 +43,10 @@ const CSVSPage: React.FC<PageProps> = () => {
 		</p>
 		<h3>100 Gecs</h3>
 		<p>
-		If Tisakorean represents the pinnacle of what a single voice develops into under postmodern conditions of overproduction, 100 Gecs goes a step further, zooming-out by showing us what the *totality* looks like under such conditions.
+		If Tisakorean represents the pinnacle of what a single voice develops into under postmodern conditions of overproduction, 100 Gecs goes a step further, zooming-out by showing us what the <i>totality</i> looks like under such conditions.
 		</p>
 		<p>
-		All are invited to the party to yell their status update into a microphone. Culture becomes a panoply of expressions of basic impulses that barely cohere. The hyperpop style of 100 Gecs is to mash up all the manufactured, overproduced pop sounds one hears on the radio together into one unit in a grand expression of *bad taste.* Country, rap, EDM, screamo, all are placed side by side and allowed to wail in autotune about heartbreak and inferiority complexes.
+		All are invited to the party to yell their status update into a microphone. Culture becomes a panoply of expressions of basic impulses that barely cohere. The hyperpop style of 100 Gecs is to mash up all the manufactured, overproduced pop sounds one hears on the radio together into one unit in a grand expression of <i>bad taste</i>. Country, rap, EDM, screamo, all are placed side by side and allowed to wail in autotune about heartbreak and inferiority complexes.
 		</p>
 		<p>
 		100 Gecs’ music revels in its triviality, banality, and stupidity, even while attempting a kind of  ambitious maximalism. The goal of 100 Gecs’ music, it would seem, is to provide a reflection of the totality of production which the listener is thrust amongst in day-to-day life, now subsumed into a representative unity. 100 Gecs is a mirror to the total schizophrenia of pop culture at its limit of production — if one can no longer stand out amongst the cacaphony as an artist, one can hold a mirror to it and say look, I see you, this is what you are, and I choose to no longer resist.
