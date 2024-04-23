@@ -13,6 +13,7 @@ const IndexPage: React.FC<PageProps> = ({ data, location}) => {
     <p><a href="https://realitygamer.substack.com">Substack</a></p>
     <p><a href="https://instagram.com/realityspammer">Instagram</a></p>
     <h3>Blog</h3>
+    <li><i>April 23, 2024</i> <span className="dot-separator">•</span> <a href="/blog/network-solipsism">Network Solipsism</a></li>
     <li><i>February 20, 2024</i> <span className="dot-separator">•</span> <a href="/blog/elon-takeover">Just to state the obvious, Elon’s takeover of Twitter is a major historical event</a></li>
     <li><i>February 15, 2024</i> <span className="dot-separator">•</span> <a href="/blog/knockdown-center">Tisakorean, 100 Gecs, and Liturgy</a></li>
     <li><i>January 20, 2024</i> <span className="dot-separator">•</span> <a href="/blog/after-optimism">After Optimism</a></li>
