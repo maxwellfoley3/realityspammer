@@ -40,6 +40,10 @@ const IndexPage: React.FC<PageProps> = ({ data, location}) => {
     <li><i>September 18, 2021</i> <span className="dot-separator">•</span> <a href="https://realitygamer.substack.com/p/suburbvision">Suburbvision</a></li>
     <li><i>July 24, 2021</i> <span className="dot-separator">•</span> <span className="dot-separator"></span> <a href="https://realitygamer.substack.com/p/the-bubble-dimension-people-are-going">The bubble-dimension people are going to have to get used to</a></li>
     <li><i>July 06, 2021</i> <span className="dot-separator">•</span> <a href="https://realitygamer.substack.com/p/coming-soon">New World ☺️</a></li>
+    <h3>Podcast appearances</h3>
+    <li><i>August 28, 2023</i> <span className="dot-separator">•</span> <a href="https://www.patreon.com/posts/168-i-mega-gamer-88066848">Contain</a></li>
+    <li><i>June 15, 2022</i> <span className="dot-separator">•</span> <a href="https://castbox.fm/episode/The-BUNTZCAST-1%3A-Reality-Gamer-id4980025-id506814280?country=us">Buntzcast</a></li>
+
     </div>    
   )
 }
