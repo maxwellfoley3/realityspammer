@@ -6,12 +6,13 @@ const IndexPage: React.FC<PageProps> = ({ data, location}) => {
   return (
     <div className="container">
     <h1>Realworld 🤯 </h1>
-    <p>Hello, by name is Maxwell S Foley. I go on the internet by Realityspammer.</p>
+    <p>Hello, my name is Maxwell S Foley. I go on the internet by Realityspammer.</p>
     <p>I'm a software engineer and a writer. I wrote the book <a href="https://anti-singularity.com">Anti-Singularity</a>.</p>
     <p>Generally speaking I am interested in sociocultural structures and technology. I hope for my writing to establish lines to traverse upon which we may discover new evolutionary trajectories for these systems.</p>
     <p><a href="https://twitter.com/realityspammer">X</a></p>
     <p><a href="https://instagram.com/realityspammer">Instagram</a></p>
     <h3>Writing</h3>
+    <li><i>November 8, 2024</i><span className="dot-separator">•</span> <a href="/zoomer-schopenhauer">Dialogues no. 1 — Zoomer Schopenhauer</a></li>
     <li><i>July 15, 2024</i><span className="dot-separator">•</span> <a href="/blog/art-and-duty">Art and Duty</a></li>
     <li><i>May 22, 2024</i><span className="dot-separator">•</span> <a href="/blog/2024-may">X app memetico-political analysis May 2024</a></li>
     <li><i>April 23, 2024</i> <span className="dot-separator">•</span> <a href="/blog/network-solipsism">Network Solipsism</a></li>
