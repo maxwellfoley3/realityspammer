@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Cardo:wght@400;800');
+
+body {
+    background-color: #ffcfed;
+    font-family: 'Cardo', serif;
+}
+
+li {
+    list-style-type: none;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+
+p {
+    text-indent: 25px;
+}
+
+.date {
+    position: relative;
+    top: -18px;
+}
+
+.container-outer.dark {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    background-color: #080308;
+}
+
+.container {
+    max-width: 600px;
+    margin-bottom: 200px;
+}
+
+.container.dark {
+    color: #fbeaff;
+}
+
+.container.dark h1 {
+    color: #d59d00;
+}
+
+.container.dark h2 {
+    color: #d99f00;
+}
+
+.container.dark p {
+    line-height: 1.5;
+}
+
+@media (min-width: 600px) {
+    .container {
+        margin-left: 100px;
+        margin-top: 30px;
+    }
+}
+
+.container h3 {
+    margin-top: 40px;
+}
+
+.container img {
+    max-width: 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.dot-separator {
+    padding-left: 7px;
+    padding-right: 7px;
+}
