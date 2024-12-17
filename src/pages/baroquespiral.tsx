@@ -13,10 +13,16 @@ const CSVSPage: React.FC<PageProps> = () => {
       </i>
     </p>
     <p>
-      <i>
-        Baroquespiral is the author of a number of texts, most recently and prominently </i>Theory of the Young-Boy<i>, which is a counterpart to Tiqqun's text </i>Preliminary Materials for a Theory of the Young-Girl<i>
-        published in 2012. I highly recommend purchasing this text. Baroquespiral is one of a few people who can at least gesture to a metanarrative which lays out everything that has happened on the internet since the birth of Web 2.0, in which rapid culture shifts year after year lead to each micro-generational cohort experiencing a plane of collective imagination with slippier and more ironic use of basic language, and deeper creep of nihilism. While Tiqqun's </i>Young-Girl<i> text analyzed how technocapitalism wants to turn everyone into an object which wants to be looked at, </i>Young-Boy<i> analyzes the other side of this story - those who want to look, follow, comment and lurk. In a kind of psychedelic horror story which mixes in continental philosophy with references to video games and obscure online comment sections, Baroquespiral traces how this dynamic has made our collective imagination more violent.
+        <i>
+            Baroquespiral is the author of a number of texts, most recently and prominently </i>Theory of the Young-Boy<i>, which is a counterpart to Tiqqun's text </i>Preliminary Materials for a Theory of the Young-Girl<i>
+            published in 2012. I highly recommend purchasing this text, it's wonderful.
+        </i>
+    </p>
+    <p>
+        <i>The author has the rare ability to sketch out a metanarrative laying out what has happened on the internet since the birth of Web 2.0, in which rapid culture shifts have led to each micro-generational cohort experiencing a new plane of collective imagination, each with a slippier and more ironic use of basic language than the last. While Tiqqun's </i>Young-Girl<i> text analyzed how technocapitalism wants to turn everyone into an object which wants to be looked at, </i>Young-Boy<i> analyzes the other side of this story - those who want to look, follow, comment and lurk. In a kind of psychedelic horror story which mixes in continental philosophy with references to video games and obscure online comment sections, Baroquespiral traces how this dynamic has made our collective imagination more violent.
       </i>
+    </p>
+    <p>
       <i>
         Read on because we cover a lot of interesting stuff, including anime, the state of academia, ecology, Elon Musk, space travel, virtual reality, utopia, and religion.
       </i>
