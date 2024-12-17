@@ -12,6 +12,7 @@ const IndexPage: React.FC<PageProps> = ({ data, location}) => {
       <p><a href="https://twitter.com/realityspammer">X</a></p>
       <p><a href="https://instagram.com/realityspammer">Instagram</a></p>
       <h3>Writing</h3>
+      <li><i>December 16, 2024</i><span className="dot-separator">•</span> <a href="/baroquespiral">Dialogues no. 2 — Baroquespiral</a></li>
       <li><i>November 8, 2024</i><span className="dot-separator">•</span> <a href="/zoomer-schopenhauer">Dialogues no. 1 — Zoomer Schopenhauer</a></li>
       <li><i>July 15, 2024</i><span className="dot-separator">•</span> <a href="/blog/art-and-duty">Art and Duty</a></li>
       <li><i>May 22, 2024</i><span className="dot-separator">•</span> <a href="/blog/2024-may">X app memetico-political analysis May 2024</a></li>
@@ -22,7 +23,7 @@ const IndexPage: React.FC<PageProps> = ({ data, location}) => {
       <li><i>December 22, 2023</i> <span className="dot-separator">•</span> <a href="/blog/what-is-deleuze">What is Deleuze doing? Or trying to do?</a></li>
       <li><i>December 16, 2023</i> <span className="dot-separator">•</span> <a href="/blog/hello-world">New Blog Hello World</a></li>
       <li><i>October 13, 2023</i> <span className="dot-separator">•</span> <a href="https://realitygamer.substack.com/p/realboyism-fall-of-the-fall-agi-drugs">AGI Drugs You Should Try It</a></li>
-      <li><i>October 3, 2023</i> <span className="dot-separator">•</span> <span className="dot-separator">•</span><a href="https://harmlessai.substack.com/p/the-question-concerning-technology">The Question Concerning Technology in 2023</a></li>
+      <li><i>October 3, 2023</i> <span className="dot-separator">•</span> <a href="https://harmlessai.substack.com/p/the-question-concerning-technology">The Question Concerning Technology in 2023</a></li>
       <li><i>August 13, 2023</i> <span className="dot-separator">•</span><a href="/national-socialism">Against National Socialism</a></li>
       <li><i>June 27, 2023</i> <span className="dot-separator">•</span> <a href="/guattari-gang">Guattari Gang</a></li>
       <li><i>June 21, 2023</i> <span className="dot-separator">•</span> <a href="https://realitygamer.substack.com/p/fear-and-loathing-at-the-otto-compound">Fear and Loathing at the Otto Compound</a></li>
