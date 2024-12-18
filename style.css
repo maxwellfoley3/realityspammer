@@ -71,3 +71,13 @@ p {
     padding-left: 7px;
     padding-right: 7px;
 }
+
+span {
+    display: inline-block;
+}
+
+img.rss {
+	margin-left:0px;
+	margin-right:0;
+    height:15px;
+}

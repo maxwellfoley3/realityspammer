@@ -5,7 +5,7 @@ import "./index.scss"
 const IndexPage: React.FC<PageProps> = ({ data, location}) => {
   return (
     <div className="container">
-      <h1>Realworld 🤯 </h1>
+      <h1>Realworld 🤯 <span><a href="rss.xml"><img src="rss.png" className="rss"/></a></span></h1>
       <p>Hello, my name is Maxwell S Foley. I go on the internet by Realityspammer.</p>
       <p>I'm a technologist and a writer. I wrote the book <a href="https://anti-singularity.com">Anti-Singularity</a>.</p>
       <p>Generally speaking I am interested in sociocultural structures and technology. I hope for my writing to establish lines to traverse upon which we may discover new evolutionary trajectories for these systems.</p>
