@@ -9,7 +9,7 @@ const CSVSPage: React.FC<PageProps> = () => {
 		<div><a href="/">← Home</a></div>
 		<p>
       <i>
-        This is the second post in a series where I'm interviewing my peers on X in long form. Coming after the first one with <a href="https://realityspammer.fr/zoomer-schopenhauer/">Zoomer Schopenhauer</a>, this time around I'm talking to <a href="https://x.com/baroquespiral">Baroquespiral</a>, real name Gabriel Wainio-Théberge, also going by the display name on X of “Moe Maximizing Superintelligence".  
+        This is the second post in a series where I'm interviewing my peers on X in long form. Coming after the first one with <a href="https://realityspammer.fr/zoomer-schopenhauer/">Zoomer Schopenhauer</a>, this time around I'm talking to <a href="https://x.com/baroquespiral">Baroquespiral</a>, also going by the display name on X of “Moe Maximizing Superintelligence".  
       </i>
     </p>
     <p>
